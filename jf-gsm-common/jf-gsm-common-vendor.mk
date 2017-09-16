@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jf-gsm-common/proprietary/bin/netmgrd:system/bin/netmgrd \
     vendor/samsung/jf-gsm-common/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/jf-gsm-common/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/jf-gsm-common/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/jf-gsm-common/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/jf-gsm-common/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
     vendor/samsung/jf-gsm-common/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
